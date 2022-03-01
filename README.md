@@ -1,4 +1,7 @@
 # swg-game
+
+#REQUIRED PIP INSTALLATIONS => [tkinter]
+
 simple snake-water-gun game in python
 
 #Both Linux and Windows has same python source code and also different direct applications.
